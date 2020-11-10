@@ -1,0 +1,4 @@
+Flask==1.1.2
+line-bot-sdk==1.16.0
+numpy==1.17.2
+pandas==0.25.1
